@@ -1,3 +1,8 @@
+html, body{
+  margin:20px;
+  padding:10px;
+}
+
 html{
   background-color:#444;
   color:#999;
@@ -8,6 +13,23 @@ img{
   width:100%;
 }
 
+h1, h2{
+  color:white
+}
+
+h1{
+  background-color:#000000, .7;
+  text-align:center;
+  position:relative;
+  top:-75px;
+}
+
+.lead{
+  border:1px rounded #444;
+  background-color:#ffcc00;
+  border-radius: 5px;
+}
+ 
 table{
   width:95%;
   margin:25px auto;
@@ -27,9 +49,13 @@ caption{
 }
 
 hr{
-  color:#999;
+  border:1px solid #999;
 }
 
 footer{
   text-align:center;
+  }
+
+a{
+  color:lightblue;
 }
