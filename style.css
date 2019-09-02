@@ -1,22 +1,22 @@
 html, body{
-  margin:0px;
-  padding:0px;
+  margin: 0px;
+  padding: 0px;
   line-height: 26px;
   font-size: 20px;
 }
 
 html{
-  background-color:#3c3c3c;
-  color:#999;
-  font-family:Railway;
+  background-color: #3c3c3c;
+  color: #999;
+  font-family: Railway;
 }
 
 img{
-  width:100%;
+  width: 100%;
 }
 
 h1, h2{
-  color:white
+  color: white
 }
 
 h1{
@@ -35,35 +35,35 @@ h2, p{
 
 
 .lead{
-  border:1px rounded #444;
+  border: 1px rounded #444;
   background-color: #f0db2e;
   border-radius: 5px;
   padding: 15px;
-  font-size:30px;
+  font-size: 30px;
   color: black;
   font-weight: bold;
   margin-top: -40px; 
-  margin-right: 170px;
+  width: 98%;
 }
  
 table{
-  width:98%;
-  margin:25px auto;
+  width: 98%;
   border-collapse: collapse;
+  margin: 20px;
 }
 
 table,th,td,caption style{
-  border:1px solid #999;
+  border: 1px solid #999;
 }
 
 th, td, caption{
-    text-align:center;
+    text-align: center;
 }
 
 caption{
   text-transform: uppercase;
   font-weight: bold;  
-  border:1px solid #999;
+  border: 1px solid #999;
 }
 
 th{
@@ -71,14 +71,15 @@ th{
 }
 
 hr{
-  border:1px solid #999;
+  border: 1px solid #999;
   width: 98%;
+  margin: 20px;
 }
 
 footer{
-  text-align:center;
+  text-align: center;
   }
 
 a{
-  color:lightblue;
+  color: lightblue;
 }
